@@ -1,0 +1,8 @@
+prefix=/home/lc/ros_workspace/qt_ros_PAC/devel
+
+Name: pac_gui
+Description: Description of pac_gui
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+pac_gui
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/lc/ros_workspace/qt_ros_PAC/devel -DCMAKE_INSTALL_PREFIX=/home/lc/ros_workspace/qt_ros_PAC/install
